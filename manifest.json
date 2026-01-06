@@ -1,0 +1,21 @@
+{
+  "name": "Controle Penha",
+  "short_name": "Penha App",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#064e3b",
+  "theme_color": "#064e3b",
+  "orientation": "landscape",
+  "icons": [
+    {
+      "src": "https://www.penha.com.br/wp-content/uploads/2021/05/cropped-Logo-PNG-1.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://www.penha.com.br/wp-content/uploads/2021/05/cropped-Logo-PNG-1.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
